@@ -8,9 +8,9 @@
             "args": [
                 "-I",
                 "./eigen",
-                "6june.cpp",
+                "driven_cavity_flow.cpp",
                 "-o",
-                "6june.exe"
+                "driven_cavity_flow.exe"
             ],
             "group": {
                 "kind": "build",
